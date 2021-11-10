@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuickPlayz
 - 👀 I’m interested in ... Video games and coding
 - 🌱 I’m currently learning ... Python and C#
-- 💞️ I’m looking to collaborate on ... Nothing im lonly
+- 💞️ I’m looking to collaborate on ... Nothing im lonely
 - 📫 How to reach me ... You cant rn, ill make a way soon, sorry
 
 <!---
