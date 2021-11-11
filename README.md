@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ... Nothing im lonely
 - 📫 How to reach me ... You cant rn, ill make a way soon, sorry
 - 😎 Im bored right now
-- 🤖 Im pretty good at coding with HTML5 and Python 
+- 🤖 Im pretty good at coding with HTML5 and Python (If it makes me sound cool i taught myself python in less than a day)
 
 <!---
 QuickPlayz/QuickPlayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
