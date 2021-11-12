@@ -7,6 +7,8 @@
 - 😎 Im bored right now
 - 🤖 Im pretty good at coding with HTML5 and Python (If it makes me sound cool i taught myself python in less than a day)
 
+<Trying to make a new project or update a project at least once a week ☕>
+
 --Joined GitHub
 on November 9, 2021--
 <!---
