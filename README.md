@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @QuickPlayz, im a 14 year old coder and i like coding and playing video games. 
+- 👋 Hi, I’m @QuickPlayz, im a 15 year old coder and i like coding and playing video games. 
 
 - 👀 I’m interested in ... Video games and coding
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... advanced Python and a little bit of JavaScript 
 - 💞️ I’m looking to collaborate on ... Nothing im lonely
 - 📫 How to reach me ... You cant rn, ill make a way soon, sorry
 - 😎 Im bored right now
-- 🤖 Im pretty good at coding with HTML5 and Python (If it makes me sound cool i taught myself python in less than a day)
+- 🤖 Im pretty good at coding 
 
 <Trying to make a new project or update a project at least once a week ☕>
 
